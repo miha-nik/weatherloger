@@ -19,7 +19,7 @@ After displays the result on the screen. Shows the temperature and weather icon,
 
 **Betternife** - for data binding
 
-**Room** - for local storeje in database
+**Room** - for local storage in database
 
 **RxJava** - for reactive programming
 
