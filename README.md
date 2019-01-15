@@ -14,9 +14,14 @@ After displays the result on the screen. Shows the temperature and weather icon,
 # Libraries using in application
 
 **Retrofit2** - used in the project for requests to the network to determine the current location from http://ip-api.com/, as well as to get the weather from https://openweathermap.org/api
+
 **Dagger2** - using to dependency injection
+
 **Betternife** - for data binding
+
 **Room** - for local storeje in database
+
 **RxJava** - for reactive programming
+
 **Picasso** - for loading and showing current weather icon
 
